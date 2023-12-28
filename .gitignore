@@ -1,0 +1,10 @@
+__pycache__
+.githubpat
+.venv
+settings.json
+.flake8
+.vscode
+logs
+secret
+plan
+conf
